@@ -1,2 +1,5 @@
-# sagey
-Starting Terminal on Java and @JavascriptInterface v1.0.0
+### Welcome to Sagey Repository!
+Starting Terminal...
+Script: Java, Node, and Javascript
+
+***Thank you!***
